@@ -1,2 +1,2 @@
 initial commit
-fix #1
+fix #1 address pull request concerns
